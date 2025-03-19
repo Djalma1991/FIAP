@@ -1,0 +1,16 @@
+# Arquivos e diretórios do Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.log
+venv/
+env/
+.DS_Store
+
+# Arquivos específicos do projeto
+tech_challenge3/.env
+tech_challenge3/trn.json
+tech_challenge3/tst.json
+tech_challenge3/filter_labels_test.txt
+tech_challenge3/filter_labels_train.txt
